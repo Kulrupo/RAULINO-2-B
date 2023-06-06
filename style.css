@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(15, 40, 153);
+    color: aliceblue;
+
+}
+
+body h1{
+    display: flex;
+    justify-content: center;
+}
+
+header{display: flex;
+}
