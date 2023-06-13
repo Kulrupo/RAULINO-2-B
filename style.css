@@ -9,5 +9,16 @@ body h1{
     justify-content: center;
 }
 
-header{display: flex;
+header{
+    display: flex;
+    justify-content: center;
+    padding-left: 15px;
+     padding-right: 15px;
+     gap: 100px;
+     background-color: blueviolet;
+}
+
+header Ul{
+    display: flex;
+    text-decoration: none;
 }
