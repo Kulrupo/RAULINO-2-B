@@ -1,4 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 body{
+
     background-color: rgb(15, 40, 153);
     color: aliceblue;
 
@@ -7,6 +16,8 @@ body{
 body h1{
     display: flex;
     justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 header{
@@ -19,6 +30,8 @@ header{
 }
 
 header Ul{
+   margin-top:20px;
+   margin-bottom:20px ;
     display: flex;
     text-decoration: none;
 }
